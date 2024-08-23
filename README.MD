@@ -1,3 +1,6 @@
+# !(Desafíos NASA Space Apps Challenge 2024)[https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/] 
+
+
 ## 1. Más allá de la luz solar: un mundo acuático quimiosintético
 Los ecosistemas de la Tierra dependen en gran medida de la luz solar, pero imagina un mundo oceánico donde la quimiosíntesis, no la fotosíntesis, sustenta la vida. Tu desafío es diseñar un mundo así y su ecosistema diverso, ampliando los límites de la astrobiología más allá de las condiciones tradicionales similares a las de la Tierra.
 
