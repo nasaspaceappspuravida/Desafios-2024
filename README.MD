@@ -37,15 +37,31 @@ Imagina un escenario en el que la colonización espacial ha llegado al punto en 
 
 - [Open Mission Control](https://github.com/nasa/openmct)
 
-Git clone GitHub.com/NASA/openmct.git  
-
+- Paso 1: Git Clone
+```sh
+git clone https://github.com/nasa/openmct.git
+```
+- Paso 2: Ubica el projecto
+```sh
 cd openmct 
+```
 
+- Paso 3: 
+```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+```
 
+- Paso 4:
+```sh
 Npm install 
+```
 
-npm start
+
+- Paso 5:
+```sh
+npm start 
+```
+
 
 ## 8. Género y clima: 
 Los Objetivos de Desarrollo Sostenible de las Naciones Unidas son una serie de metas diseñadas para promover el desarrollo humano y proteger el medio ambiente. Dos de los objetivos se refieren a la igualdad de género y la acción climática. Si bien la mayoría de las personas podrían considerar que estos dos temas son bastante dispares, en realidad están estrechamente relacionados. Tu desafío es modelar la relación entre el cambio climático y la desigualdad de género, y proponer una solución que promueva la igualdad y la acción para apoyar el desarrollo sostenible para todos.
