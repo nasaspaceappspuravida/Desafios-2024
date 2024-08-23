@@ -1,4 +1,5 @@
 # [Desafíos NASA Space Apps Challenge 2024](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/) 
+## [NASA Github Repo](https://github.com/nasa)
 
 
 ## 1. Más allá de la luz solar: un mundo acuático quimiosintético
@@ -13,16 +14,29 @@ Los ecosistemas de la Tierra dependen en gran medida de la luz solar, pero imagi
 ## 3. Mapeo de la comunidad   
 Un sistema de información geográfica (SIG) puede crear, gestionar, analizar y mapear muchos tipos de datos. Con los SIG y otras tecnologías de mapeo, puede crear un mapa de un área y superponer datos abiertos sobre él espacialmente para revelar información nueva y enriquecedora. Su desafío es crear un mapa que incorpore datos científicos abiertos para explorar cómo un problema en su comunidad está determinado por la geografía física circundante. ¿Quizás le preocupan los desiertos alimentarios y desea analizar las ubicaciones de las tiendas de comestibles en su vecindario? ¿O tal vez le gustaría explorar los impactos de la contaminación en el suministro de agua local? ¡Hay tanto espacio para la oportunidad, todo lo que tiene que hacer es mapearlo!
 
++Recursos: 
+
+- [GFW](https://www.globalforestwatch.org/)
+- [Open Street Maps](https://www.openstreetmap.org/directions?from=10.7736%2C-85.3239&to=)
+- [Google Earth] (https://developers.google.com/maps/documentation)
+
 ## 4. Crea una aplicación web de orrery que muestre objetos cercanos a la Tierra:
-Desde que se presentó un modelo mecánico del sistema solar a Charles Boyle, cuarto conde de Orrery, en 1713, estos modelos se conocen como orreries. Los primeros orreries eran modelos físicos, pero hoy podemos usar numerosas herramientas para crear orreries virtuales que tienen muchas más funciones que sus antiguas contrapartes mecánicas. Tu desafío es crear una aplicación web interactiva de orrery que esté integrada en una página web y muestre cuerpos celestes como planetas, asteroides cercanos a la Tierra, cometas cercanos a la Tierra y asteroides potencialmente peligrosos.El astronauta Woody Hoburg se toma una selfie espacial fuera de este mundo
+Desde que se presentó un modelo mecánico del sistema solar a Charles Boyle, cuarto conde de Orrery en 1713, estos modelos se conocen como orreries. Los primeros orreries eran modelos físicos, pero hoy podemos usar numerosas herramientas para crear orreries virtuales que tienen muchas más funciones que sus antiguas contrapartes mecánicas. Tu desafío es crear una aplicación web interactiva de orrery que esté integrada en una página web y muestre cuerpos celestes como planetas, asteroides cercanos a la Tierra, cometas cercanos a la Tierra y asteroides potencialmente peligrosos.
+
++Recursos:
+- [NASA Open APIs](https://api.nasa.gov/)
 
 ## 5. Crea tu propio desafío
 
 ## 6. ¡Exosky! ¿Cómo se vería el cielo nocturno si estuvieras parado sobre uno de los muchos exoplanetas descubiertos por astrónomos y misiones espaciales? 
 La lista de más de 5500 exoplanetas del Archivo de Exoplanetas de la NASA se puede combinar con los últimos catálogos de estrellas para traducir la ubicación y el brillo de millones o incluso miles de millones de estrellas a otra perspectiva. Desde esa perspectiva, cualquiera podría usar su imaginación para dibujar constelaciones, de manera muy similar a como lo hicieron nuestros antepasados ​​en la Tierra hace miles de años. Tu desafío es desarrollar una aplicación o interfaz para estudiantes que les permita elegir un exoplaneta y luego mostrar un mapa estelar interactivo o exportar una imagen de alta calidad para imprimir o ver en una computadora o una pantalla de realidad virtual, donde puedan dibujar y nombrar constelaciones.
 
++Recursos:
+- [NASA Open APIs](https://api.nasa.gov/)
+
 ## 7. Juegos galácticos: ¡Diversión en un entorno de microgravedad! 
 Imagina un escenario en el que la colonización espacial ha llegado al punto en el que varias estaciones espaciales orbitan varios cuerpos celestes dentro del sistema solar. Los astronautas deben vivir, trabajar y jugar durante largos períodos en entornos de microgravedad. Vivir en estas condiciones no solo afecta su bienestar físico, sino que a veces se aburren. Tu tarea es diseñar un juego que aproveche los desafíos y las oportunidades únicas de un entorno de microgravedad para entretener y contribuir al bienestar general y la cohesión de las tripulaciones de astronautas, mejorando su resiliencia y adaptabilidad en la frontera extraterrestre.
+
 
 ## 8. Género y clima: 
 Los Objetivos de Desarrollo Sostenible de las Naciones Unidas son una serie de metas diseñadas para promover el desarrollo humano y proteger el medio ambiente. Dos de los objetivos se refieren a la igualdad de género y la acción climática. Si bien la mayoría de las personas podrían considerar que estos dos temas son bastante dispares, en realidad están estrechamente relacionados. Tu desafío es modelar la relación entre el cambio climático y la desigualdad de género, y proponer una solución que promueva la igualdad y la acción para apoyar el desarrollo sostenible para todos.
