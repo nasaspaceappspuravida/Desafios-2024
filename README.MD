@@ -8,6 +8,7 @@ Los ecosistemas de la Tierra dependen en gran medida de la luz solar, pero imagi
 
 +Recursos:
 - [NASA Open APIs](https://api.nasa.gov/)
+- [A frame](https://aframe.io/)
 
 ## 3. Mapeo de la comunidad   
 Un sistema de información geográfica (SIG) puede crear, gestionar, analizar y mapear muchos tipos de datos. Con los SIG y otras tecnologías de mapeo, puede crear un mapa de un área y superponer datos abiertos sobre él espacialmente para revelar información nueva y enriquecedora. Su desafío es crear un mapa que incorpore datos científicos abiertos para explorar cómo un problema en su comunidad está determinado por la geografía física circundante. ¿Quizás le preocupan los desiertos alimentarios y desea analizar las ubicaciones de las tiendas de comestibles en su vecindario? ¿O tal vez le gustaría explorar los impactos de la contaminación en el suministro de agua local? ¡Hay tanto espacio para la oportunidad, todo lo que tiene que hacer es mapearlo!
