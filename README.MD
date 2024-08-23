@@ -7,7 +7,7 @@ Los ecosistemas de la Tierra dependen en gran medida de la luz solar, pero imagi
 ## 2. Crónicas de la exploración de exoplanetas
 ¡Embárcate en un viaje emocionante para revolucionar la educación sobre exoplanetas! El descubrimiento de exoplanetas ha redefinido nuestra comprensión de los sistemas planetarios, ampliando lo que sabemos sobre nuestro lugar en el universo. Desde abrasadores gigantes gaseosos hasta mundos rocosos potencialmente habitables, estos mundos distantes ofrecen una visión de la notable diversidad de configuraciones planetarias. Los materiales educativos tradicionales sobre este tema pueden no ser accesibles para todos, en particular para aquellos de comunidades desatendidas o con acceso limitado a los recursos. Tu desafío es desarrollar materiales de aprendizaje atractivos y accesibles que aprovechen la creatividad para ilustrar a los estudiantes sobre las maravillas de los exoplanetas.
 
-+ Recursos:
++Recursos:
 - [NASA Open APIs](https://api.nasa.gov/)
 
 ## 3. Mapeo de la comunidad   
