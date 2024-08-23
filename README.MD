@@ -41,27 +41,27 @@ Imagina un escenario en el que la colonización espacial ha llegado al punto en 
 ```sh
 git clone https://github.com/nasa/openmct.git
 ```
-- Paso 2: Ubica el projecto
+- Paso 2: Navega al directorio del proyecto
 ```sh
 cd openmct 
 ```
 
-- Paso 3: 
+- Paso 3: Instalar NVM (Node Version Manager)
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
 
-- Paso 4:
+- Paso 4:  Instalar dependencias del proyecto
 ```sh
 Npm install 
 ```
+Este comando instala todas las dependencias necesarias para ejecutar Open MCT. npm install lee el archivo package.json en el directorio del proyecto y descarga todos los paquetes que el proyecto necesita, guardándolos en la carpeta node_modules.
 
-
-- Paso 5:
+- Paso 5: Iniciar el servidor de desarrollo
 ```sh
 npm start 
 ```
-
+Este comando inicia el servidor de desarrollo de Open MCT. Ejecuta el proyecto en modo de desarrollo, lo que significa que puedes ver los cambios en tiempo real mientras trabajas en el código. Una vez que el servidor esté en funcionamiento, podrás acceder a la aplicación abriendo un navegador web y visitando http://localhost:8080.
 
 ## 8. Género y clima: 
 Los Objetivos de Desarrollo Sostenible de las Naciones Unidas son una serie de metas diseñadas para promover el desarrollo humano y proteger el medio ambiente. Dos de los objetivos se refieren a la igualdad de género y la acción climática. Si bien la mayoría de las personas podrían considerar que estos dos temas son bastante dispares, en realidad están estrechamente relacionados. Tu desafío es modelar la relación entre el cambio climático y la desigualdad de género, y proponer una solución que promueva la igualdad y la acción para apoyar el desarrollo sostenible para todos.
