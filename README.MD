@@ -99,6 +99,8 @@ En 2015, las Naciones Unidas crearon la Agenda 2030 de los Objetivos de Desarrol
 ## 16. Detección sísmica en todo el sistema solar
 Las misiones de sismología planetaria tienen dificultades para cumplir con los requisitos de energía necesarios para enviar datos sísmicos continuos a la Tierra. ¡Pero solo una fracción de estos datos es científicamente útil! En ​​lugar de enviar todos los datos recopilados, ¿qué pasaría si pudiéramos programar un módulo de aterrizaje para distinguir las señales del ruido y enviar solo los datos que nos interesan? ¡Tu desafío es escribir un programa de computadora para analizar datos reales de las misiones Apolo y el módulo de aterrizaje InSight de Marte para identificar terremotos sísmicos dentro del ruido!
 
+[Solar Dynamics Observatory](https://sdo.gsfc.nasa.gov/data/)
+
 ## 17. Muéstrenos cómo fueron las tormentas geomagnéticas de mayo de 2024
 El Sol es muy variable y pasa por períodos en los que su actividad magnética es muy alta y otros en los que la actividad magnética es muy baja o casi nula. ¡Este año el Sol estuvo muy activo! En mayo de 2024, varias erupciones solares de gran magnitud crearon un clima espacial que afectó a la Tierra de diversas maneras. Su desafío es utilizar los datos de la NASA para crear una representación visual (por ejemplo, una película, un video de un baile, etc.) que ayude al público a comprender mejor las tormentas solares de mayo de 2024 y sus impactos.
 
