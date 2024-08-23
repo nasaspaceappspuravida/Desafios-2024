@@ -1,6 +1,4 @@
 # [Desafíos NASA Space Apps Challenge 2024](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/) 
-## [NASA Github Repo](https://github.com/nasa)
-
 
 ## 1. Más allá de la luz solar: un mundo acuático quimiosintético
 Los ecosistemas de la Tierra dependen en gran medida de la luz solar, pero imagina un mundo oceánico donde la quimiosíntesis, no la fotosíntesis, sustenta la vida. Tu desafío es diseñar un mundo así y su ecosistema diverso, ampliando los límites de la astrobiología más allá de las condiciones tradicionales similares a las de la Tierra.
@@ -79,3 +77,6 @@ Las emisiones de gases de efecto invernadero causadas por el hombre (antropogén
 
 ## 21. Visualizar la ciencia espacial 
 Los experimentos biológicos realizados en el espacio son fundamentales para los esfuerzos de descubrimiento científico, pero son complejos de ejecutar y difíciles de conceptualizar. Por ejemplo, estos experimentos deben cargarse en cohetes, lanzarse, realizarse utilizando hardware especializado y (a menudo) regresar a la Tierra para su análisis. Esta complejidad es una barrera para la amplia utilización de estos datos. Su desafío es crear una herramienta que pueda generar visualizaciones informativas y convincentes de experimentos biológicos realizados en el espacio.
+
+## +Recursos
+[NASA Github Repo](https://github.com/nasa)
