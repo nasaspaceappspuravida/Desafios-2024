@@ -16,7 +16,7 @@ Un sistema de información geográfica (SIG) puede crear, gestionar, analizar y 
 
 - [GFW](https://www.globalforestwatch.org/)
 - [Open Street Maps](https://www.openstreetmap.org/directions?from=10.7736%2C-85.3239&to=)
-- [Maps Platform](https://developers.google.com/maps/documentation)
+- [Maps Platform](https://developers.google.com/maps/documentation/javascript/add-google-map-wc-tut)
 
 ## 4. Crea una aplicación web de orrery que muestre objetos cercanos a la Tierra:
 Desde que se presentó un modelo mecánico del sistema solar a Charles Boyle, cuarto conde de Orrery en 1713, estos modelos se conocen como orreries. Los primeros orreries eran modelos físicos, pero hoy podemos usar numerosas herramientas para crear orreries virtuales que tienen muchas más funciones que sus antiguas contrapartes mecánicas. Tu desafío es crear una aplicación web interactiva de orrery que esté integrada en una página web y muestre cuerpos celestes como planetas, asteroides cercanos a la Tierra, cometas cercanos a la Tierra y asteroides potencialmente peligrosos.
