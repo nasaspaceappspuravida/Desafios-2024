@@ -89,6 +89,10 @@ Los agricultores se enfrentan a una avalancha de desafíos relacionados con el a
 ## 14. PACE en el aula 
 El satélite PACE (Plankton Aerosol Cloud Ocean Ecosystem) se lanzó y comenzó a enviar datos sobre los océanos y la atmósfera de la Tierra. La política de ciencia abierta de la NASA permite que el público pueda acceder a todos los datos de PACE, pero puede resultar difícil de entender si no se está familiarizado con este tipo de datos. El desafío es crear un conjunto de materiales digeribles que se puedan usar en las aulas de todo el mundo para ayudar a los estudiantes a comprender los datos y la información que PACE está recopilando y mejorar la alfabetización oceánica en todo el mundo. Desafío 2024 de aplicaciones espaciales de la NASA.
 
++Recursos: 
+
+- [PACE](https://pace.gsfc.nasa.gov/)
+
 ## 15. Los ODS en el aula 
 En 2015, las Naciones Unidas crearon la Agenda 2030 de los Objetivos de Desarrollo Sostenible (ODS), un conjunto de 17 objetivos centrados en abordar preocupaciones globales como el cambio climático, la pobreza global, la contaminación, la desigualdad y muchas más. A medida que nos acercamos a la mitad de la Agenda de los ODS, nuestro objetivo es encontrar nuevas formas de involucrar a los jóvenes con las herramientas disponibles para avanzar en estos objetivos y medir nuestro progreso en el logro de los mismos. Su desafío es desarrollar un plan de clase que eduque a los estudiantes de secundaria sobre un ODS y que pueda integrarse en una unidad de ciencias que ya pueda ser parte del plan de estudios (por ejemplo, una unidad sobre el clima, la geología, la salud del suelo, etc.).
 
