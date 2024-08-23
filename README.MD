@@ -1,4 +1,4 @@
-# !(Desafíos NASA Space Apps Challenge 2024)[https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/] 
+# (Desafíos NASA Space Apps Challenge 2024)[https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/] 
 
 
 ## 1. Más allá de la luz solar: un mundo acuático quimiosintético
