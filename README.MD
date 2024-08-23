@@ -18,19 +18,14 @@ Un sistema de información geográfica (SIG) puede crear, gestionar, analizar y 
 - [Open Street Maps](https://www.openstreetmap.org/directions?from=10.7736%2C-85.3239&to=)
 - [Maps Platform](https://developers.google.com/maps/documentation/javascript/add-google-map-wc-tut)
 
-## 4. Crea una aplicación web de orrery que muestre objetos cercanos a la Tierra:
-Desde que se presentó un modelo mecánico del sistema solar a Charles Boyle, cuarto conde de Orrery en 1713, estos modelos se conocen como orreries. Los primeros orreries eran modelos físicos, pero hoy podemos usar numerosas herramientas para crear orreries virtuales que tienen muchas más funciones que sus antiguas contrapartes mecánicas. Tu desafío es crear una aplicación web interactiva de orrery que esté integrada en una página web y muestre cuerpos celestes como planetas, asteroides cercanos a la Tierra, cometas cercanos a la Tierra y asteroides potencialmente peligrosos.
+## 4. Crea una aplicación web de un Planetario Mécanico que muestre objetos cercanos a la Tierra:
+Desde que se presentó un modelo mecánico del sistema solar a Charles Boyle, 4.º Conde de Orrery, en 1713, tales modelos han sido conocidos como "planetarios mecánicos" o "orreries". Los primeros orreries eran modelos físicos, pero hoy en día podemos utilizar numerosas herramientas para crear Planetario Mécanico virtuales que cuentan con muchas más funciones que sus antiguos homólogos mecánicos. Tu desafío es crear una aplicación web interactiva de un orrery que esté incrustada en una página web y muestre cuerpos celestes como planetas, asteroides cercanos a la Tierra, cometas cercanos a la Tierra y asteroides potencialmente peligrosos.
+
 
 +Recursos:
 - [NASA Open APIs](https://api.nasa.gov/)
 
 ## 5. Crea tu propio desafío
-
-## 6. ¡Exosky! ¿Cómo se vería el cielo nocturno si estuvieras parado sobre uno de los muchos exoplanetas descubiertos por astrónomos y misiones espaciales? 
-La lista de más de 5500 exoplanetas del Archivo de Exoplanetas de la NASA se puede combinar con los últimos catálogos de estrellas para traducir la ubicación y el brillo de millones o incluso miles de millones de estrellas a otra perspectiva. Desde esa perspectiva, cualquiera podría usar su imaginación para dibujar constelaciones, de manera muy similar a como lo hicieron nuestros antepasados ​​en la Tierra hace miles de años. Tu desafío es desarrollar una aplicación o interfaz para estudiantes que les permita elegir un exoplaneta y luego mostrar un mapa estelar interactivo o exportar una imagen de alta calidad para imprimir o ver en una computadora o una pantalla de realidad virtual, donde puedan dibujar y nombrar constelaciones.
-
-+Recursos:
-- [NASA Open APIs](https://api.nasa.gov/)
 
 ## 7. Juegos galácticos: ¡Diversión en un entorno de microgravedad! 
 Imagina un escenario en el que la colonización espacial ha llegado al punto en el que varias estaciones espaciales orbitan varios cuerpos celestes dentro del sistema solar. Los astronautas deben vivir, trabajar y jugar durante largos períodos en entornos de microgravedad. Vivir en estas condiciones no solo afecta su bienestar físico, sino que a veces se aburren. Tu tarea es diseñar un juego que aproveche los desafíos y las oportunidades únicas de un entorno de microgravedad para entretener y contribuir al bienestar general y la cohesión de las tripulaciones de astronautas, mejorando su resiliencia y adaptabilidad en la frontera extraterrestre.
@@ -62,6 +57,13 @@ npm start
 ```
 Este comando inicia el servidor de desarrollo de Open MCT. Ejecuta el proyecto en modo de desarrollo, lo que significa que puedes ver los cambios en tiempo real mientras trabajas en el código. Una vez que el servidor esté en funcionamiento, podrás acceder a la aplicación abriendo un navegador web y visitando http://localhost:8080.
 
+## 6. ¡Exosky! ¿Cómo se vería el cielo nocturno si estuvieras parado sobre uno de los muchos exoplanetas descubiertos por astrónomos y misiones espaciales? 
+La lista de más de 5500 exoplanetas del Archivo de Exoplanetas de la NASA se puede combinar con los últimos catálogos de estrellas para traducir la ubicación y el brillo de millones o incluso miles de millones de estrellas a otra perspectiva. Desde esa perspectiva, cualquiera podría usar su imaginación para dibujar constelaciones, de manera muy similar a como lo hicieron nuestros antepasados ​​en la Tierra hace miles de años. Tu desafío es desarrollar una aplicación o interfaz para estudiantes que les permita elegir un exoplaneta y luego mostrar un mapa estelar interactivo o exportar una imagen de alta calidad para imprimir o ver en una computadora o una pantalla de realidad virtual, donde puedan dibujar y nombrar constelaciones.
+
++Recursos:
+- [NASA Open APIs](https://api.nasa.gov/)
+
+
 ## 8. Género y clima: 
 Los Objetivos de Desarrollo Sostenible de las Naciones Unidas son una serie de metas diseñadas para promover el desarrollo humano y proteger el medio ambiente. Dos de los objetivos se refieren a la igualdad de género y la acción climática. Si bien la mayoría de las personas podrían considerar que estos dos temas son bastante dispares, en realidad están estrechamente relacionados. Tu desafío es modelar la relación entre el cambio climático y la desigualdad de género, y proponer una solución que promueva la igualdad y la acción para apoyar el desarrollo sostenible para todos.
 
@@ -73,6 +75,10 @@ Nuestros sistemas terrestres están intrincadamente conectados a escala global. 
 
 ## 11. Datos de reflectancia de Landsat: al alcance de la mano y sobre la marcha 
 Las misiones Landsat han proporcionado el conjunto de datos continuos más extenso de mediciones de la superficie terrestre obtenidas mediante teledetección. La comparación de las mediciones espectrales terrestres con los datos de reflectancia de superficie (SR) de Landsat recopilados al mismo tiempo puede facilitar el aprendizaje experiencial, alentar la exploración científica con datos satelitales, fomentar las habilidades de pensamiento interdisciplinario y espacial y empoderar a las personas para que se conviertan en ciudadanos globales informados. Pero para comparar las mediciones terrestres con los datos de Landsat, es necesario saber cuándo pasará Landsat sobre una zona terrestre específica y luego poder acceder a los datos de Landsat recopilados en ese lugar y momento. Su desafío es desarrollar una aplicación basada en la web que admita la comparación de las observaciones terrestres con los datos de Landsat al permitir que los usuarios definan una ubicación de destino, reciban notificaciones cuando Landsat pase sobre esa ubicación y luego accedan y visualicen los datos de SR de Landsat correspondientes.
+
++Recursos 
+
+- [Landsat](https://developers.google.com/earth-engine/datasets/catalog/landsat)
 
 ## 12. Aprovechar los datos de observación de la Tierra para tomar decisiones agrícolas fundamentadas- 
 Los agricultores se enfrentan a una avalancha de desafíos relacionados con el agua debido a condiciones meteorológicas impredecibles, plagas y enfermedades. Estos factores pueden afectar significativamente la salud de los cultivos, las ganancias de los agricultores y la seguridad alimentaria. Dependiendo de la geografía, muchos agricultores pueden enfrentarse a sequías o inundaciones; ¡a veces, ambos eventos extremos ocurren en la misma temporada! Su desafío es diseñar una herramienta que permita a los agricultores explorar, analizar y utilizar fácilmente los conjuntos de datos de la NASA para abordar estas preocupaciones relacionadas con el agua y mejorar sus prácticas agrícolas.
