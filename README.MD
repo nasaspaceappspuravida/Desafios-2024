@@ -37,27 +37,26 @@ Imagina un escenario en el que la colonización espacial ha llegado al punto en 
 
 - [Open Mission Control](https://github.com/nasa/openmct)
 
-- Paso 1: Git Clone
+Paso 1: Git Clone
 ```sh
 git clone https://github.com/nasa/openmct.git
 ```
-- Paso 2: Navega al directorio del proyecto
+Paso 2: Navega al directorio del proyecto
 ```sh
 cd openmct 
 ```
-
-- Paso 3: Instalar NVM (Node Version Manager)
+Paso 3: Instalar NVM (Node Version Manager)
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 ```
 
-- Paso 4:  Instalar dependencias del proyecto
+Paso 4:  Instalar dependencias del proyecto
 ```sh
-Npm install 
+npm install 
 ```
 Este comando instala todas las dependencias necesarias para ejecutar Open MCT. npm install lee el archivo package.json en el directorio del proyecto y descarga todos los paquetes que el proyecto necesita, guardándolos en la carpeta node_modules.
 
-- Paso 5: Iniciar el servidor de desarrollo
+Paso 5: Iniciar el servidor de desarrollo
 ```sh
 npm start 
 ```
