@@ -16,7 +16,7 @@ Un sistema de información geográfica (SIG) puede crear, gestionar, analizar y 
 
 - [GFW](https://www.globalforestwatch.org/)
 - [Open Street Maps](https://www.openstreetmap.org/directions?from=10.7736%2C-85.3239&to=)
-- [Google Earth] (https://developers.google.com/maps/documentation)
+- [Maps Platform](https://developers.google.com/maps/documentation)
 
 ## 4. Crea una aplicación web de orrery que muestre objetos cercanos a la Tierra:
 Desde que se presentó un modelo mecánico del sistema solar a Charles Boyle, cuarto conde de Orrery en 1713, estos modelos se conocen como orreries. Los primeros orreries eran modelos físicos, pero hoy podemos usar numerosas herramientas para crear orreries virtuales que tienen muchas más funciones que sus antiguas contrapartes mecánicas. Tu desafío es crear una aplicación web interactiva de orrery que esté integrada en una página web y muestre cuerpos celestes como planetas, asteroides cercanos a la Tierra, cometas cercanos a la Tierra y asteroides potencialmente peligrosos.
@@ -35,6 +35,15 @@ La lista de más de 5500 exoplanetas del Archivo de Exoplanetas de la NASA se pu
 ## 7. Juegos galácticos: ¡Diversión en un entorno de microgravedad! 
 Imagina un escenario en el que la colonización espacial ha llegado al punto en el que varias estaciones espaciales orbitan varios cuerpos celestes dentro del sistema solar. Los astronautas deben vivir, trabajar y jugar durante largos períodos en entornos de microgravedad. Vivir en estas condiciones no solo afecta su bienestar físico, sino que a veces se aburren. Tu tarea es diseñar un juego que aproveche los desafíos y las oportunidades únicas de un entorno de microgravedad para entretener y contribuir al bienestar general y la cohesión de las tripulaciones de astronautas, mejorando su resiliencia y adaptabilidad en la frontera extraterrestre.
 
+- [Open Mission Control](https://github.com/nasa/openmct)
+
+git clone https://github.com/nasa/openmct.git
+
+nvm install
+
+npm install
+
+npm run dev
 
 ## 8. Género y clima: 
 Los Objetivos de Desarrollo Sostenible de las Naciones Unidas son una serie de metas diseñadas para promover el desarrollo humano y proteger el medio ambiente. Dos de los objetivos se refieren a la igualdad de género y la acción climática. Si bien la mayoría de las personas podrían considerar que estos dos temas son bastante dispares, en realidad están estrechamente relacionados. Tu desafío es modelar la relación entre el cambio climático y la desigualdad de género, y proponer una solución que promueva la igualdad y la acción para apoyar el desarrollo sostenible para todos.
