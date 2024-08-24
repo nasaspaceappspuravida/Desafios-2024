@@ -85,6 +85,8 @@ Las misiones Landsat han proporcionado el conjunto de datos continuos más exten
 ## 12. Aprovechar los datos de observación de la Tierra para tomar decisiones agrícolas fundamentadas- 
 Los agricultores se enfrentan a una avalancha de desafíos relacionados con el agua debido a condiciones meteorológicas impredecibles, plagas y enfermedades. Estos factores pueden afectar significativamente la salud de los cultivos, las ganancias de los agricultores y la seguridad alimentaria. Dependiendo de la geografía, muchos agricultores pueden enfrentarse a sequías o inundaciones; ¡a veces, ambos eventos extremos ocurren en la misma temporada! Su desafío es diseñar una herramienta que permita a los agricultores explorar, analizar y utilizar fácilmente los conjuntos de datos de la NASA para abordar estas preocupaciones relacionadas con el agua y mejorar sus prácticas agrícolas.
 
+- [GFW](https://www.globalforestwatch.org/)
+
 ## 13.  Navegador para el Observatorio de Mundos Habitables (HWO): mapeo de los exoplanetas caracterizables en nuestra galaxia
 ¿Qué exoplanetas serán observables con el futuro Observatorio de Mundos Habitables (HWO)? Una forma de determinar los objetivos exoplanetarios más interesantes para el HWO sería visualizar cuáles de los exoplanetas conocidos actualmente podría observar el HWO. Su desafío es desarrollar una aplicación que permita a los usuarios visualizar las rutas de observación a través de nuestra galaxia hacia los exoplanetas conocidos en el vecindario solar como una función de su potencial de caracterización por el HWO.
 
